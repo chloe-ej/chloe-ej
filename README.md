@@ -3,7 +3,7 @@
 
 
 
-<img src="https://img.shields.io/badge/HTML-FFCA28?style=flat&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 
 <!---
 chloe-ej/chloe-ej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
