@@ -4,9 +4,16 @@
 <br>
 
 
-<h2 align="center">Hi!👋 I'm Eunji Kang</h2>
+<div align="center">Hi!👋 I'm Eunji Kang</div>
+
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchloe-ej&count_bg=%230F0F0F&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchloe-ej&count_bg=%230F0F0F&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 <br>
 <br>
 <br>
