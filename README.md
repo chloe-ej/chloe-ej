@@ -1,8 +1,9 @@
 ## Welcome!
 
 👋 &nbsp; Hi, My name is Eunji Kang.<br/>
-📝 &nbsp; I studied International Business in college.<br/>
 📍 &nbsp; I'm currently staying in Seoul, South Korea.<br/>
+📝 &nbsp; I studied International Business in college.<br/>
+
 
 <br/>
 
