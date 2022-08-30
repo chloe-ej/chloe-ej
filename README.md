@@ -1,4 +1,4 @@
-## Welcome! I'm Eunji
+## Welcome!
 
 👋 &nbsp; Hi, My name is Eunji Kang.<br/>
 📝 &nbsp; I studied International Business in college.<br/>
