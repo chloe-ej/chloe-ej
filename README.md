@@ -52,6 +52,11 @@
   
 </div>
 
+
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchloedev&show_icons=true&theme=transparent)
+</div>
+
   
 
 
